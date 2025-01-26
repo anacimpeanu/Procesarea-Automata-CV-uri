@@ -1,0 +1,70 @@
+{
+  "name": "CV_Processor_2024",
+  "projectId": "e2287161-248b-499b-86dd-a819e0747406",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "CradlAI.UIPath.Activities": "[1.0.0]",
+    "UiPath.DocumentUnderstanding.Activities": "[2.13.2-preview]",
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.32.0-preview]",
+    "UiPath.Excel.Activities": "[2.25.1-preview]",
+    "UiPath.GSuite.Activities": "[2.8.23]",
+    "UiPath.IntegrationService.Activities": "[1.12.0]",
+    "UiPath.IntelligentOCR.Activities": "[6.23.2-preview]",
+    "UiPath.Mail.Activities": "[1.24.12]",
+    "UiPath.PDF.Activities": "[3.21.0-preview]",
+    "UiPath.System.Activities": "[24.10.7]",
+    "UiPath.UIAutomation.Activities": "[24.12.4-preview]",
+    "UiPath.WebAPI.Activities": "[1.21.0]",
+    "UiPath.Word.Activities": "[1.20.3]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.0.157.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "26c71a68-d78d-4b5b-ae76-da6cb1da82cd",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

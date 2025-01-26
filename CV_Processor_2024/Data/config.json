@@ -1,0 +1,14 @@
+﻿{
+    "EmailSettings": {
+        "Server": "imap.gmail.com",
+        "Port": 993,
+        "Username": "test.rpa957@gmail.com",
+        "Password": "lptb ynxn pqve dtqw",
+        "Folder": "INBOX"
+    },
+    "ProcessingRules": {
+        "AllowedFormats": ["pdf", "docx"],
+        "MaxFileSize": 10240,
+        "SavePath": "Data\\CVs"
+    }
+}
