@@ -71,12 +71,4 @@ Aplicația conține un folder `data`, care este organizat astfel:
 
 ---
 
-## 📜 Licență
-Acest proiect este licențiat sub **MIT License**.
-
-## 👩‍💻 Autor
-**Cîmpeanu Ana-Maria**  
-📍 Universitatea din București  
-📅 2024-2025  
-
 
